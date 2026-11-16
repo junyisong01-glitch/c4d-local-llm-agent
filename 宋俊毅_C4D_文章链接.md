@@ -20,5 +20,5 @@ https://mp.weixin.qq.com/s?__biz=MzcwOTQ3Nzc5Mw==&tempkey=MTM5NV8zeDZvaStaczVjNk
 
 ## 备注
 
-当前链接为公众号后台复制出的「临时预览链接」（URL 含 tempkey 参数），短期内可能失效。
-如需长期稳定的永久链接，可在公众号后台「发表记录 → 该文章 → 复制链接」取得形如 `https://mp.weixin.qq.com/s/XXXXXXXX` 的短链接后，替换上方链接。
+当前链接为公众号后台复制出的「临时预览链接」（URL 含 tempkey 参数），已于 2026-11-16 实测失效（页面显示「临时链接已失效」）。
+⚠️ 提交前需替换为永久链接：在公众号后台「发表记录 → 该文章 → 复制链接」取得形如 `https://mp.weixin.qq.com/s/XXXXXXXX` 的短链接后，替换上方链接。
