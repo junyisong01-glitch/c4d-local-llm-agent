@@ -11,7 +11,7 @@
 
 ## 文章链接
 
-https://mp.weixin.qq.com/s?__biz=MzcwOTQ3Nzc5Mw==&tempkey=MTM5NV8zeDZvaStaczVjNkZ4L2ZydjhpaTBhZDh6UmlOVVB2NGZ1bkV3eGw0TXZUcjMxc0JzWnprYXBFMXoxQkNMMWtmbmZVaWM3bmRVWXVlRnVmSEw2Vk9sQVRBbjY5VGl4RnIwdnh5dFpmTjhpVUFFZW14bE9NczZoNkd4Y3ExdzFsWTZxSDctMlBwc0JUY0xfeGNVV1VpSzM0ZG91c3k0QXBKUDIwQTFBfn4%3D&chksm=f52495c4c2531cd2bd6aa23b7c44a7123053aaa1a7f5229e980dc18f42cee82050a20b68b75e&token=81648692&lang=zh_CN#rd
+https://mp.weixin.qq.com/s/Y5T3gOythOkASGmxkm4VZQ
 
 ## 说明
 
@@ -20,5 +20,4 @@ https://mp.weixin.qq.com/s?__biz=MzcwOTQ3Nzc5Mw==&tempkey=MTM5NV8zeDZvaStaczVjNk
 
 ## 备注
 
-当前链接为公众号后台复制出的「临时预览链接」（URL 含 tempkey 参数），已于 2026-11-16 实测失效（页面显示「临时链接已失效」）。
-⚠️ 提交前需替换为永久链接：在公众号后台「发表记录 → 该文章 → 复制链接」取得形如 `https://mp.weixin.qq.com/s/XXXXXXXX` 的短链接后，替换上方链接。
+永久链接已于 2026-11-16 由用户从公众号后台「发表记录 → 该文章 → 复制链接」取得，AI 已实测验证在线可打开（标题 / 作者 / 公众号 / 日期全对）。
